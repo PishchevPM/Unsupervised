@@ -7,5 +7,5 @@ Then use
 ```
 https://github.com/PishchevPM/Unsupervised/
 pip install -e .
-python3 ./self_ood.py
+python3 ./self_ood_run.py
 ```
