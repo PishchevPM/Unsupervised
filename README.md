@@ -5,5 +5,7 @@ Make sure that you have installed [torch](https://pytorch.org/) compatible with 
 
 Then use
 ```
-git clone https://github.com/mishgon/self_ood.git && cd self_ood && pip install -e .
+https://github.com/PishchevPM/Unsupervised/
+pip install -e .
+python3 ./self_ood.py
 ```
