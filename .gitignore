@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+experiments/
+cifar10/
 .Python
 build/
 develop-eggs/
